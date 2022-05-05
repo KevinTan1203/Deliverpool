@@ -5,13 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBDdt8xdy7BsE55l1W2kNxfqa61rCzb0iQ",
-  authDomain: "bt3103-b72ac.firebaseapp.com",
-  projectId: "bt3103-b72ac",
-  storageBucket: "bt3103-b72ac.appspot.com",
-  messagingSenderId: "79358269365",
-  appId: "1:79358269365:web:61bd93da76fbe07d6debfc",
-  measurementId: "G-X703204E9X",
+  apiKey: "AIzaSyAFS1lce1OtoFq3qPwujfIwo-bSj_mtLNM",
+  authDomain: "deliverpoll.firebaseapp.com",
+  projectId: "deliverpoll",
+  storageBucket: "deliverpoll.appspot.com",
+  messagingSenderId: "567704089912",
+  appId: "1:567704089912:web:2a57da6e20247f80d8bdcd",
 };
 
 // Initialize Firebase
